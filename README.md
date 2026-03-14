@@ -6,9 +6,13 @@ The analysis combines Python data analysis and Power BI visualization to explore
 Business Recommendations
 
 • Encourage customers to switch from month-to-month plans to annual contracts through discounts.
+
 • Improve customer onboarding experience during the first year.
+
 • Offer loyalty rewards or retention offers for high-risk customers.
+
 • Provide better support for customers with high monthly charges.
+
 
 Key Insights
 
